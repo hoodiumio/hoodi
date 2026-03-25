@@ -1,2 +1,2 @@
 # Hoodi Blockchain
-The Hoodium | HOODI Network based on Stacks
+The Hoodium | HDI Network based on Stacks
